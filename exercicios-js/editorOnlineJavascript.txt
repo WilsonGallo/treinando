@@ -1,0 +1,8 @@
+Alternativas de editor de código javascript
+
+https://repl.it/repls/FemalePolishedNighthawk
+https://jsfiddle.net
+
+Podera ser usado o console do browser tecla f12, e usar a biblioteca que o site carregou e que fica a disposição, exemplo
+o site do jquery: https://jquery.com
+
